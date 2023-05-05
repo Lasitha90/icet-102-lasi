@@ -1,0 +1,17 @@
+.box{
+    width: 200px; 
+    height: 200px; 
+    background-color: red; 
+    border: 2px solid blue;
+}
+.btn{
+    background-color: green; 
+    padding: 10px; color: white; 
+    border-radius: 100px; 
+}
+#div1{
+    width: 200px; 
+    height: 200px; 
+    background-color: rgb(8, 255, 181); 
+    border: 2px solid rgb(217, 255, 0);  
+}
